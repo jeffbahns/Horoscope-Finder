@@ -25,13 +25,10 @@ sign_list = {1  : "Aries",
 def horoscoper(link):
     os.system('clear')
     sign = 0
-
-    # 12 horoscopes to pick from
-    print ("\nWhich sign are you?\n"
-           "1  : Aries\n2  : Taurus\n3  : Gemini\n"
-           "4  : Cancer\n5  : Leo\n6  : Virgo\n"
-           "7  : Libra\n8  : Scorpio\n9  : Sagittarius\n"
-           "10 : Capricorn\n11 : Aquarius\n12 : Pisces")
+    
+    for num in sign_list:
+        print (str(num) + "  :  " + sign_list[num])
+        
     while sign > 12 or sign < 1 or sign % 1 != 0:
         sign = eval(input("\n>> "))
            
