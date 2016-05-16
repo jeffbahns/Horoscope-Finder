@@ -1,0 +1,18 @@
+   [
+      {"id": "/wxd/v2/MORecord/en_US/USCA0478:1:US", 
+      
+        
+            "status": 200, 
+			"generatedTime": 1419968220,
+			"cacheMaxSeconds": 300,
+			"currentTime": 1419968323,
+			"doc": 
+          
+        {
+        	"MOHdr":{"obsStn":"T72493017","procTm":"20141230142845","_procTmLocal":"2014-12-30T11:28:45.000-08:00","procTmISO":"2014-12-30T19:28:45.000Z"},
+        
+        "MOData":{"stnNm":"Richmond","obsDayGmt":"20141230","obsTmGmt":"192500","dyNght":"D","locObsDay":"20141230","locObsTm":"112536","tmpF":51,"tmpC":11,"sky":32,"wx":"Sunny / Windy","iconExt":3290,"alt":30.18,"baroTrnd":0,"baroTrndAsc":"Steady","clds":"SKC","dwptF":26,"dwptC":-3,"hIF":51,"hIC":11,"rH":38,"pres":1021.8,"presChnge":0.03,"visM":10.0,"visK":16.09,"wCF":51,"wCC":11,"wDir":20,"wDirAsc":"NNE","wGstM":34,"wGstK":55,"wGstKn":30,"wSpdM":28,"wSpdK":45,"wSpdKn":24,"tmpMx24F":53,"tmpMx24C":12,"tmpMn24F":42,"tmpMn24C":6,"tmpMx6F":4,"tmpMx6C":-16,"prcp24":0.0,"prcp3_6hr":0.0,"prcpHr":0.0,"prcpMTD":11.9,"prcpYr":26.87,"prcp2Dy":0.0,"prcp3Dy":0.0,"prcp7Dy":0.04,"snwDep":0.0,"snwIncr":0.0,"snwTot":0.0,"snwTot6hr":0.0,"snwMTD":0.0,"snwSsn":0.0,"snwYr":0.0,"snw2Dy":0.0,"snw3Dy":0.0,"snw7Dy":0.0,"sunrise":"07:24 am","sunset":"04:58 pm","uvIdx":2,"uvDes":"Low","uvWrn":0,"flsLkIdxF":51,"flsLkIdxC":11,"recTyp":"TECCI","vocalCd":"OIT72493017:OZ201412301925:OT51:OTF51:OTH53:OTL42:OTD4:OU2:OH38:OX3290:OW01S28G34:OD26:OV100:OC99999:OP3018T02:ORH0:ORQ0:ORD0:OSH0:OSQ0:OSD0:ORM1190:ORY2687:OMR347:OYR2494:OSM0:OSY0:OSS0:OQ0076","avgMTDPrecip":3.47,"avgYTDPrecip":24.94,"wxMan":"wx1051","qulfr":"OQ0076","qulfrSvrty":1,"_presIn":30.17,"_altMeters":9.2,"_snwDepCm":0.0,"_prcp24Cm":0.0,"_prcp24Mm":0.0,"_prcpYrMm":682.5,"_prcpMTDMm":302.26,"_prcp2DyMm":0.0,"_prcp3DyMm":0.0,"_prcp7DyMm":1.02,"_snwYrCm":0.0,"_snw2DyCm":0.0,"_snw3DyCm":0.0,"_snw7DyCm":0.0,"_sunriseISOLocal":"2014-12-30T07:24:00.000-08:00","_sunsetISOLocal":"2014-12-30T16:58:00.000-08:00","obsDateTimeISO":"2014-12-30T19:25:00.000Z","sunriseISO":"2014-12-30T15:24:00.000Z","sunsetISO":"2014-12-31T00:58:00.000Z","_obsDateLocalTimeISO":"2014-12-30T11:25:00.000-08:00","_extendedQulfrPhrase":"Seasonal temperatures.","_wDirAsc_en":"NNE"}
+        }
+      
+      }
+    ] 
